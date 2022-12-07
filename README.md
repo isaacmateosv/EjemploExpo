@@ -2,5 +2,6 @@
 Ensayo para mañana.
 
 Integrantes:
-Mateo Sarzosa
-Elisa Herrera
+-   Mateo Sarzosa
+-   Elisa Herrera
+-   Pablo Sarzosa
